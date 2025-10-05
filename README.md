@@ -36,7 +36,7 @@ Explora los riesgos, las oportunidades y los dilemas éticos que atraviesan a do
 El libro completo está disponible de forma gratuita en formato PDF.  
 Podés leerlo, compartirlo o usarlo como material de reflexión en espacios educativos.  
 
-👉 **[Descargar PDF desde GitHub](./Inteligencia_Artificial_en_el_aula.pdf)**  
+👉 **[Descargar PDF desde GitHub](https://github.com/programming-Regina/IA_en_el_aula/blob/950bc8cb6f575c35006502a5ee76bd2bd1124a58/Inteligencia_Artificial_en_el_aula_-_Regina_N_Molares.pdf)**  
 
 Si este trabajo te resultó valioso, podés apoyar su continuidad con un aporte voluntario:
 
@@ -63,7 +63,7 @@ Este material fue desarrollado, editado y financiado de manera independiente.
 Podés compartirlo libremente con fines educativos y no comerciales, siempre citando la fuente.  
 
 **© 2025 Regina N. Molares — Edición independiente**  
-**Contacto:** [LinkedIn](https://www.linkedin.com/in/regina-molares) | [Medium](https://medium.com/@data.regina.cursos)
+**Contacto:** [LinkedIn](https://www.linkedin.com/in/regina-molares/) | [Medium](https://medium.com/@data.regina.cursos)
 
 ---
 
