@@ -70,7 +70,7 @@ Podés compartirlo libremente con fines educativos y no comerciales, siempre cit
 ## ⭐ Cómo citar este trabajo
 
 > Molares, R. N. (2025). *Inteligencia Artificial en el aula: lo bueno, lo malo y lo peligroso.* Edición independiente.  
-> Recuperado de [https://github.com/tu_usuario/Inteligencia-Artificial-en-el-Aula](https://github.com/programming-Regina/IA_en_el_aula)
+> Recuperado de [https://github.com/programming-Regina/Inteligencia-Artificial-en-el-Aula](https://github.com/programming-Regina/IA_en_el_aula)
 
 ---
 
